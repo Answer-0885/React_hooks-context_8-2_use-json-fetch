@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_hooks-context_8-2_use-json-fetch/static/css/main.cc064703.css",
+    "main.js": "/React_hooks-context_8-2_use-json-fetch/static/js/main.07ba53ed.js",
+    "index.html": "/React_hooks-context_8-2_use-json-fetch/index.html",
+    "main.cc064703.css.map": "/React_hooks-context_8-2_use-json-fetch/static/css/main.cc064703.css.map",
+    "main.07ba53ed.js.map": "/React_hooks-context_8-2_use-json-fetch/static/js/main.07ba53ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc064703.css",
+    "static/js/main.07ba53ed.js"
+  ]
+}
